@@ -12,3 +12,4 @@ Container Images for OCP Perf&Scale
 - netpol-scraper: quay.io/cloud-bulldozer/netpol-scraper:latest
 - eipvalidator: quay.io/cloud-bulldozer/eipvalidator:latest
 - nginxecho: quay.io/cloud-bulldozer/nginxecho:latest
+- netpolproxy: quay.io/cloud-bulldozer/netpolproxy:latest
